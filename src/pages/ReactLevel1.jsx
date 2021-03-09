@@ -31,7 +31,7 @@ const ReactLevel1 = () => {
   const items = listCheckBox.map(({ id, name }) => {
     return (
       <>
-        <li>
+        <li className='list-style-none'>
           <CheckBox
             key={id}
             type="checkbox"

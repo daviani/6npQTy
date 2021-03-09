@@ -8,7 +8,7 @@ import ReactLevel1 from './pages/ReactLevel1'
 import ReactLevel2 from './pages/ReactLevel2'
 
 import './assets/themes/soft-design-system.css'
-import './index.css'
+import './main.css'
 
 const App = () => {
   return (
