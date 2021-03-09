@@ -55,7 +55,7 @@ const ReactLevel1 = () => {
             Build a simple React application to handle multiple selection in lists.
           </h4>
           <hr className='my-4' />
-          <div className="mt-5">
+          <div className='mt-5'>
             <CheckBox
               type='checkbox'
               name='Selected-All'
